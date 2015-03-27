@@ -13,4 +13,4 @@
  * (Theoretically, not in the spec) - "i tell you do this. it do that. monkey c monkey do" - **5th** 
 
 
-* Internet and internet are different things. The Internet - yo, you used it to get this file. internet - hmm it's something
+* **I**nternet and **i**nternet are different things. The Internet - yo, you used it to get this file. internet - hmm it's something
