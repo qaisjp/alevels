@@ -1,4 +1,4 @@
-# computing-school
+# school
 
 Yo.
 Some school stuff lives here.
