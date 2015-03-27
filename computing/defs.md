@@ -21,3 +21,15 @@
 * *POP3* downloading email stored on the client (outlook express poopoo days)
 * *Socket* **IP:PORT**
 * *Port* - certain *application* at an address
+
+Ports
+-----
+* : SSH
+* 80: HTTP
+* : Telnet
+* : FTP
+
+Kind of sockets
+---------------
+* 
+* 
