@@ -14,3 +14,9 @@
 
 
 * **I**nternet and **i**nternet are different things. The Internet - yo, you used it to get this file. internet - hmm it's something
+
+
+* *SMTP* for sending email (Simple Mail Transfer Protocol)
+* *IMAP* email stored on server
+* *POP3* downloading email stored on the client (outlook express poopoo days)
+* 
