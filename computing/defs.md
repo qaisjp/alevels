@@ -19,4 +19,5 @@
 * *SMTP* for sending email (Simple Mail Transfer Protocol)
 * *IMAP* email stored on server
 * *POP3* downloading email stored on the client (outlook express poopoo days)
-* 
+* *Socket* **IP:PORT**
+* *Port* - certain *application* at an address
