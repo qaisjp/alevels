@@ -2,7 +2,7 @@ Revision
 ====
 
 * Maths; C1:
-    * [ ] Basic Algebra
+    * [x] Basic Algebra
     * [ ] Co-ordinate geometry
     * [ ] Polynomials
     * [ ] Uncertainty
