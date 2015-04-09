@@ -20,4 +20,4 @@ Remainder Theorem
 Binomial Expansions
 -------------------
 <sup>n</sup>C<sub>r</sub> * a<sup>n-r</sup> * b<sup>r</sup>
-* <sup>n</sup>C<sub>r</sub> = that triangle thing
+![n!/r!(n-r!)](http://qs.lc/whmg8)
