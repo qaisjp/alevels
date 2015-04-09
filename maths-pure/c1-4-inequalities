@@ -1,0 +1,5 @@
+Inequalities stuff
+===================
+* Multiplying by a negative results in a sign flip
+* If we're trying to find the value of `x`, don't do multiplication hackery because this will give you the wrong answer.
+* This is because we don't know if `x` is negative or positive
