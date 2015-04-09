@@ -16,3 +16,8 @@ If `(x-a)` is a factor of `f(x)`, then `f(a) = 0`; and `x=a` is a root of the eq
 Remainder Theorem
 -----------------
 `f(a)` is the remainder when `f(x)` is divided by `(x-a)`
+
+Binomial Expansions
+-------------------
+<sup>n</sup>C<sub>r</sub> * a<sup>n-r</sup> * b<sup>r</sup>
+* <sup>n</sup>C<sub>r</sub> = that triangle thing
