@@ -9,9 +9,9 @@ CDM:
 ERD:
 * represents relationship betwee entities using ERD
 * degree of relationship. how are they related?:
-** `1:1`
-** `1:many`/`many:1`
-** `many:many`
+  * `1:1`
+  * `1:many`/`many:1`
+  * `many:many`
 
 Defs:
 * Primary Key: unique identifier of a record in a database
