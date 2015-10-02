@@ -22,4 +22,3 @@ Definitions
 * foreign key: link field, field in the table where the primary key links to the foreign key
 * referential integrity: checks to ensure tha a value used as foreign key is a primary key in another tbale
 * normalisation: given a set of data, removing the redundancies
-* first normal form: a table has a primary key, atomic (smallest possible) values
