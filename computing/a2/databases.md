@@ -2,11 +2,11 @@ A database is a program that is built around soring data...
 
 DBMS enables the definition, creation and maintenance of a database. Provides controlled access.
 
-# CDM
+# central database management
 * Represent the data requirements of an organisation
 * independent of a database software used
 
-# ERD
+# Entity relationship diagrams
 * represents relationship betwee entities using ERD
 * degree of relationship. how are they related?:
   * `1:1`
