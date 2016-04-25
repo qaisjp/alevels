@@ -17,6 +17,8 @@ DBMS enables the definition, creation and maintenance of a database. Provides co
 * **first normal form**: a table has a primary key, atomic (smallest possible) values
 * **second normal form**: table must be in 1NF, has no partial key dependencies
 * **third normal form**: must be in 2NF, contains no non-key dependancies
+ * Meaning: Data is atomic. Everything is dependent on the primary key.
+ * Why it is important: saves memory because duplicate data is reduced
 
 
 # Definitions
